@@ -1,3 +1,3 @@
 # abc
 this is my project. 
-author samia Atif
+author_samia Atif
